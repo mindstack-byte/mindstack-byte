@@ -26,32 +26,13 @@ Building scalable, user-focused web applications and continuously exploring mode
 
 ## 🛠 Tech Stack
 
-### Languages
-- JavaScript (ES6+)
-- Typescript
-- Node
-- HTML5
-- CSS3
-
-### Frameworks & Libraries
-- React.js
-- Express.js
-- Redux
-- Tailwind CSS
-- Bootstrap
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Webpack
-- NPM
-
-### Other Expertise
-- Responsive Web Design
-- REST API Integration
-- UI/UX Implementation
-- Performance Optimization
+💻 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3  
+⚛️ **Frontend:** React.js, Redux, Redux Toolkit, Redux Thunk, Redux Saga, Bootstrap  
+🖥 **Backend:** Node.js, Express.js  
+🧪 **Testing:** Jest, React Testing Library, Playwright  
+⚙️ **Build Tools:** Webpack, Babel, NPM, Yarn  
+🔧 **Dev Tools:** Git, GitHub, Bitbucket, JIRA  
+🌐 **Other:** Responsive Web Design, REST APIs, SSR, SSG
 
 ---
 
