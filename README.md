@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 
 <h3 align="center">
-🚀 Frontend Engineer | React.js | JavaScript Enthusiast
+🚀 Frontend Engineer | React.js | Typescript | JavaScript Enthusiast | Redux | Zustand | Node.js | Next.js
 </h3>
 
 <p align="center">
